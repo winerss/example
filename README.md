@@ -1,6 +1,6 @@
-# four
+# example
 
-> A Vue.js project
+> A Vue.js projectexample
 
 ## Build Setup
 
